@@ -38,6 +38,11 @@ dev = [
   "ruff>=0.6",
 ]
 
+[project.urls]
+Homepage = "https://github.com/SidChellappan/ReviewIt"
+Repository = "https://github.com/SidChellappan/ReviewIt"
+Issues = "https://github.com/SidChellappan/ReviewIt/issues"
+
 [project.scripts]
 reviewit = "reviewit.cli:main"
 

@@ -7,6 +7,7 @@
 [![PyPI version](https://img.shields.io/pypi/v/reviewit.svg)](https://pypi.org/project/reviewit/)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/SidChellappan/ReviewIt?style=social)](https://github.com/SidChellappan/ReviewIt)
 
 AI code review in your terminal, before you push.
 
