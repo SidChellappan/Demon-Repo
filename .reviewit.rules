@@ -1,0 +1,6 @@
+always_check = [
+  "provider errors should tell the user how to fix missing configuration",
+  "CLI commands should exit non-zero on failed model requests",
+  "never print API keys or secrets",
+  "new behavior needs focused tests"
+]
